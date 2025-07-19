@@ -97,6 +97,5 @@ Sinta-se à vontade para abrir issues ou pull requests se tiver sugestões ou me
 
 ## 📧 Contato
 
-[Seu Nome]
-[Seu LinkedIn Profile URL]
-[Seu Email (Opcional)]
+JONATHAN CARVALHO
+https://www.linkedin.com/in/jonathan-datascience/
